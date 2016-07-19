@@ -1,0 +1,24 @@
+{
+  "name": "cheday-parse-dashboard",
+  "version": "1.0.0",
+  "description": "Parse dashboard for Cheday app",
+  "main": "index.js",
+  "dependencies": {
+    "parse-dashboard": "^1.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheday/cheday-parse-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheday/cheday-parse-dashboard/issues"
+  },
+  "homepage": "https://github.com/Cheday/cheday-parse-dashboard#readme"
+}
