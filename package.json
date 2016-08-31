@@ -4,12 +4,15 @@
   "description": "Parse dashboard for Cheday app",
   "main": "index.js",
   "dependencies": {
-    "parse-dashboard": "^1.0.15"
+    "parse-dashboard": "~1.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./index.js"
+  },
+  "engines": {
+    "node": ">=6.3"
   },
   "repository": {
     "type": "git",
