@@ -4,7 +4,7 @@
   "description": "Parse dashboard for Cheday app",
   "main": "index.js",
   "dependencies": {
-    "parse-dashboard": "~1.0"
+    "parse-dashboard": "~1.0.22"
   },
   "devDependencies": {},
   "scripts": {
